@@ -1,0 +1,2 @@
+{'user_id': 6532305062 , 'plan': 499, 'valid_until': '2025-06-27', 'access_count': 0}
+
